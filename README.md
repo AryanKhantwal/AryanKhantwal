@@ -1,88 +1,93 @@
+<!-- Aryan Kumar — GitHub Profile README -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=220&section=header&text=Aryan%20Kumar&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI&descAlignY=62&descSize=19" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,100:06B6D4&height=230&section=header&text=Aryan%20Kumar&fontSize=54&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI&descAlignY=62&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AryanKhantwal"><img src="https://img.shields.io/badge/GitHub-AryanKhantwal-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AryanKhantwal"><img src="https://img.shields.io/badge/GitHub-AryanKhantwal-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aryan-khantwal-0698813ab/"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Khantwal-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aryankhantwal396@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=MERN+Stack+Developer;Building+Full-Stack+%26+AI-Powered+Applications;Backend+%E2%80%A2+APIs+%E2%80%A2+Authentication+%E2%80%A2+AI;Turning+Ideas+Into+Products+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=850&color=38BDF8&center=true&vCenter=true&width=780&lines=MERN+Stack+Developer;Building+Full-Stack+%26+AI-Powered+Applications;Backend+%E2%80%A2+APIs+%E2%80%A2+Authentication+%E2%80%A2+AI;Turning+Ideas+Into+Products+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
-🧭 Developer Dashboard
+---
+
+## 🧭 Developer Dashboard
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
-👋 About Me
+### 👋 About Me
 
-I'm a BCA graduate focused on full-stack web development, with hands-on experience building applications using the MERN stack.
+I'm **Aryan Kumar**, a BCA student and full-stack developer focused on building practical web applications with the **MERN stack** and modern AI integrations.
 
-I enjoy turning ideas into usable products — from backend APIs and authentication to dashboards and AI-powered features.
+I enjoy turning ideas into usable products — from **REST APIs, authentication and databases** to responsive React interfaces and AI-powered workflows.
 
-Current focus: MERN • Backend • REST APIs • Authentication • AI Integration
+> **Current focus:** MERN • Backend • REST APIs • Authentication • AI Integration
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
-⚡ What I Build
+### ⚡ What I Build
 
-Full-stack web applications
-
-RESTful backend services
-
-JWT & OAuth authentication
-
-AI-assisted workflows
-
-Responsive React interfaces
-
-MongoDB-backed applications
+- 🚀 Full-stack web applications
+- 🔐 JWT & OAuth authentication
+- 🧩 RESTful backend services
+- 🤖 AI-assisted product features
+- ⚛️ Responsive React interfaces
+- 🗄️ MongoDB / SQL-backed applications
 
 </td>
 </tr>
 </table>
 
-🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILDING-AI%20APPS-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20SHIPPING-0F172A?style=for-the-badge" />
+</p>
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,python,cpp,c,java,git,github,vscode,vercel&perline=9" alt="Tech stack" />
 </p>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🧠 AI Smart Study Planner
+### 🧠 AI Smart Study Planner
 
-A full-stack academic assistant that creates personalized study plans and combines AI assistance, authentication, analytics, reminders, and focus tools in one platform.
+A full-stack academic assistant designed to create personalized study plans with **AI assistance, authentication, analytics, reminders and focus tools**.
 
-Stack: React • Vite • Tailwind • Node.js • Express • MongoDB • OpenAI • Gemini • JWT • Google OAuth
+**Stack:** React • Vite • Tailwind • Node.js • Express • MongoDB • OpenAI • Gemini • JWT • Google OAuth
 
 </td>
 <td width="50%" valign="top">
 
-📞 Oravo — AI Voice Calling
+### 📞 Oravo — AI Voice Calling
 
-An in-development AI communication platform focused on real-time voice-based calling experiences and voice AI capabilities.
+An **in-development AI communication platform** focused on voice-based calling experiences and AI-powered communication workflows.
 
-Status: 🚧 In development
+**Status:** 🚧 In development
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <i>More projects will be pinned here as they become portfolio-ready.</i>
+  <i>More projects will be added as they become portfolio-ready.</i>
 </p>
 
-📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AryanKhantwal&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" />
@@ -93,7 +98,7 @@ Status: 🚧 In development
   <img src="https://streak-stats.demolab.com?user=AryanKhantwal&theme=tokyonight&hide_border=true" width="68%" />
 </p>
 
-🐍 Contribution Flow
+## 🐍 Contribution Flow
 
 <p align="center">
   <picture>
@@ -103,40 +108,38 @@ Status: 🚧 In development
   </picture>
 </p>
 
-🏆 Highlights
+## 🏆 Highlights
 
-Achievement
+<table>
+<tr>
+<td align="center"><b>🥇</b><br/>4th Place<br/><sub>Core-A Technology Hackathon 2026</sub></td>
+<td align="center"><b>🎓</b><br/>BCA<br/><sub>2023–2026</sub></td>
+<td align="center"><b>🤖</b><br/>AI Builder<br/><sub>OpenAI + Gemini</sub></td>
+<td align="center"><b>🔐</b><br/>Backend<br/><sub>REST • JWT • OAuth</sub></td>
+</tr>
+</table>
 
-Details
+## 🌌 3D Contribution Graph
 
-🥇 Hackathon
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+</p>
 
-4th Place — Core-A Technology Hackathon 2026
-
-🎓 Education
-
-Bachelor of Computer Applications (BCA), 2023–2026
-
-🤖 AI Projects
-
-OpenAI + Gemini integrations in full-stack applications
-
-🔐 Backend
-
-REST APIs, JWT, Google OAuth, asynchronous JavaScript
-
-🌐 Connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-khantwal-0698813ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aryankhantwal396@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-🌌 3D Contribution Graph
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=120&section=footer" width="100%" />
+</p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+  <sub>Building in public • Learning by shipping • One project at a time 🚀</sub>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer" width="100%" />
