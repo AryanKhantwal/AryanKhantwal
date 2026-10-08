@@ -55,7 +55,7 @@ I enjoy turning ideas into usable products — from **REST APIs, authentication 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,python,cpp,c,java,git,github,vscode,vercel&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,mysql,postgres,python,cpp,c,java,git,github,vscode,vercel&perline=9" alt="Tech stack" />
 </p>
 
 ## 🚀 Featured Projects
